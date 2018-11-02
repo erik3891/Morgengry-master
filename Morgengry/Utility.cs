@@ -19,7 +19,7 @@ namespace Morgengry
             {
                 Amulet amulet = (Amulet)merchandise;
                 Level q = amulet.Quality;
-                // ændring
+                // ændringhgchgc
                 if (q == Level.low)
                 {
                     return 12.5;
